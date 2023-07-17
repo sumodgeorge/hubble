@@ -10,3 +10,4 @@ botocore
 gitpython
 pyinotify
 cffi
+cryptography>=41.0.2 # not directly required, pinned by Snyk to avoid a vulnerability
