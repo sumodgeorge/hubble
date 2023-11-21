@@ -1,4 +1,4 @@
-pyinstaller==3.3.1
+pyinstaller==5.13.1
 Tornado>=6.3.3,<5.0.0
 crypto
 pycryptodome
