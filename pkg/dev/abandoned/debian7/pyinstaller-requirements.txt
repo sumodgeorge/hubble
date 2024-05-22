@@ -5,7 +5,7 @@ pycryptodome
 cryptography
 pyopenssl
 argparse
-requests>=2.13.0
+requests>=2.32.0
 daemon
 boto3
 botocore
