@@ -45,3 +45,4 @@ smmap2
 tornado
 urllib3>=1.26.5
 vulners
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
