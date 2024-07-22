@@ -5,7 +5,7 @@ pycryptodome
 cryptography
 pyopenssl
 argparse
-requests>=2.13.0
+requests>=2.32.2
 daemon
 boto3
 botocore
@@ -18,3 +18,4 @@ azure-storage-blob
 croniter
 vulners
 ntplib
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
